@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "latest",
+    "@cypress/browserify-preprocessor": "latest"
+  },
+  "devDependencies": {
+    "cypress": "^10.6.0",
+    "cypress-xpath": "^2.0.1"
+  },
+  "name": "cypressbdd",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nlcuong1406",
+  "license": "ISC",
+  "description": ""
+}
